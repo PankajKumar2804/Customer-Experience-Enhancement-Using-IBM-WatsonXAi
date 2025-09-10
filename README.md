@@ -1,8 +1,10 @@
 ```markdown
 # 🧠 Customer Experience Enhancement Using IBM WatsonX AI
 
-This project leverages IBM WatsonX AI to deliver an enhanced cognitive customer experience by intelligently segmenting and analyzing customer data.
-Designed to streamline customer interactions, it offers real-time insights into consumer behavior, preferences, and patterns for better personalization and operational efficiency.
+- This project leverages IBM WatsonX AI to deliver an enhanced cognitive customer experience by
+  intelligently segmenting and analyzing customer data.
+- Designed to streamline customer interactions, it offers real-time insights into consumer behavior,
+  preferences, and patterns for better personalization and operational efficiency.
 
 ## 🚀 Key Features
 
@@ -16,8 +18,8 @@ Designed to streamline customer interactions, it offers real-time insights into 
 
 | Layer         | Tools Used                        |
 |---------------|-----------------------------------|
-| AI/ML         | IBM WatsonX Foundation Models     |
-| Colab         | devlopement tool                  |
+| AI/ML         | IBM WatsonX Foundation Model      |
+| Colab         | IBM IDE & Google Colab dev tool   |
 | Data Pipeline | Pandas, scikit-learn, IBM Cloud   |
 
 ## 📊 Sample Use Cases
