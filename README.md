@@ -66,6 +66,7 @@ Check out the interactive notebook:
 
 ## 🤝 Contributors
 
-- **Pankaj Kumar** — Developer 
+- **Pankaj Kumar**
+   SWEDeveloper 
 
 ---
